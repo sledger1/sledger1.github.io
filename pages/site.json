@@ -1,8 +1,8 @@
 {
-  "name":"CS 001 Web Page Demonstration",
+  "name":"CS 567 3D User Interfaces - Final Project",
   "department":"pages/department.json",
   "pages": [
-    {"type":"page", "title":"CS 001 Web Pages", "menu":"CS001", "file":"pages/home.md"},
+    {"type":"page", "title":"CS 567 3D User Interfaces - Final Project", "menu":"CS 567", "file":"pages/home.md"},
     {"type":"text", "title":"site.json text contents", "menu":"Site", "file":"pages/site.json"},
     {"type":"text", "title":"department.json text contents", "menu":"Dept", "file":"pages/department.json"},
     {"type":"text", "title":"text contents markdown.md", "menu":"Text", "file":"pages/markdown.md"},
