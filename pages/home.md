@@ -26,6 +26,8 @@ Follow-on work can further explore the knowledge capture and retention aspects o
 
 # LINKS
 salvr.github.io
+https://github.com/sledger1/sledger1.github.io/tree/main/pages
+https://github.com/salvr/salvr.github.io
 
 
 
